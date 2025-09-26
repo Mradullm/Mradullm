@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mradul Mishra</h1>
-<h3 align="center">I am an enthusiastic computer science guy , trying to learn various domains of it but will excel in ML or Blockchain.</h3>
+<h3 align="center">An enthusiastic computer science guy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradullm&label=Profile%20views&color=0e75b6&style=flat" alt="mradullm" /> </p>
 
